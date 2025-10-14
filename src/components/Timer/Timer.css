@@ -1,0 +1,22 @@
+div {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.5rem;
+  color: royalblue;
+}
+
+.clock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.clock img {
+  width: 30px;
+  height: 30px;
+}
