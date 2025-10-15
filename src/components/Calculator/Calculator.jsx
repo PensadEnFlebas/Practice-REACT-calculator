@@ -68,10 +68,10 @@ const Calculator = () => {
       </div>
 
       <p>
-        <strong>Último resultado:</strong> <span id='lastResult'>❌</span>
+        <strong>Last Result:</strong> <span id='lastResult'>❌</span>
       </p>
       <p>
-        <strong>Histórico:</strong> <span id='history'>❌</span>
+        <strong>History:</strong> <span id='history'>❌</span>
       </p>
     </div>
   )
